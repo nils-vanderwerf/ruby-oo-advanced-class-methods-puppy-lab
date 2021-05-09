@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../Phase 2/react-forms-lab"
+		},
+		{
+			"path": "../../../Phase 2/Challenges/react-toy-tales"
+		},
+		{
+			"path": "../../../Phase 2/react-search-app"
+		},
+		{
+			"path": "../../ruby-oo-complex-objects-school-domain"
+		},
+		{
+			"path": "../../ruby-oo-object-relationships-has-many-lab"
+		},
+		{
+			"path": "../../ruby-oo-class-variables-class-constants"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
